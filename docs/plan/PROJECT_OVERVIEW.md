@@ -1,6 +1,6 @@
 # Cohort — Project Overview
 
-**A complete, plain-language guide to what we're building, why, and how.** Read this first — the other documents (`PROJECT_PLAN.md`, `ARCHITECTURE_REVISION_JAVA.md`, `EVALUATION_DEFENSE_PACK.md`) go deeper on specific parts, but this is the one document that explains the whole project end to end, meant to be read once, fully, by every team member — not just whoever ends up touching a given part of the code.
+**A complete, plain-language guide to what we're building, why, and how.**
 
 ---
 
