@@ -16,10 +16,6 @@ Existing tools solve (1) as a Kanban board and ignore (2) and (3) entirely.
 
 A web application that closes the loop: **track → interview → capture what happened → convert that into a targeted preparation plan → measure whether it worked**. Then, and this is the innovative part, learn *which preparation patterns are associated with better outcomes across many users* — without any user's raw data ever leaving their own data partition, using Federated Learning.
 
-### 2.3 Why this project will not look like everyone else's
-
-This is the section you specifically asked about, so it gets real attention. The default version of this project — the one a dozen other teams will submit — is a CRUD board with status columns, four stat cards, a pie chart, and an "AI" feature that is a single call to a hosted LLM. Below are seven design decisions that make this build structurally different. Each one is cheap enough for a student team and each one is visible in a five-minute demo.
-
 ---
 
 **D1 — The Federated Learning is real, not simulated on pooled data.**
